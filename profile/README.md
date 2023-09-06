@@ -1,1 +1,1 @@
-Moved to https://github.com/squirrel-core
+Moved to https://github.com/peanutprotocol
